@@ -1,4 +1,3 @@
-
 import 'package:dio/dio.dart';
 import 'package:burton_x/GeneralSettings.dart';
 import 'package:burton_x/Model/Event/EventListItemModel.dart';
